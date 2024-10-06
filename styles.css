@@ -1,4 +1,18 @@
-main{
-  background-color: chartreuse;
+.fond{
+  border: 5px solid black;
+  background-color: greenyellow ;
+  border-bottom-right-radius : 120px;
+  width: 840px;
+}
 
+h1{
+  font-weight: 900;
+  padding-left: 20PX;
+}
+
+.fond img {
+  display: block;
+  margin: 20px;
+  width: 800px;
+  border-bottom-right-radius: 100px;
 }
